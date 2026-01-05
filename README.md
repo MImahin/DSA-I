@@ -2,7 +2,7 @@
 
 This repository contains my foundational work in Data Structures and Algorithms. It covers the implementation and complexity analysis of both linear and non-linear data structures.
 
-## 📌 Curriculum Overview
+## 📌 Overview
 
 ### 🧱 Linear Data Structures
 * **Arrays:** Linear & Binary Search, Memory Mapping.
